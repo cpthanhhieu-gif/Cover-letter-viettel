@@ -10,12 +10,6 @@ export default function Home() {
         <div className="nav-meta"><span>UX/UI DESIGNER</span><a href="#contact">Trao đổi cùng Hiếu <Arrow /></a></div>
       </nav>
       <section className="hero shell" id="top">
-        <div className="hero-kicker">
-          <span>APPLICATION · VIETTEL DIGITAL</span>
-          <a className="viettel-logo" href="https://digital.viettel.vn/" target="_blank" rel="noreferrer" aria-label="Viettel Digital">
-            <img src="https://cesglobal.com.vn/wp-content/uploads/2025/05/12.png" alt="Viettel Digital" />
-          </a>
-        </div>
         <div className="hero-layout">
           <div className="hero-content">
             <h1>Cù Phạm Thành Hiếu<br /><em>UX/UI Designer</em></h1>
