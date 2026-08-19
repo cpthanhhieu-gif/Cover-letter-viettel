@@ -17,3 +17,4 @@ h1 em{display:inline-block;font-size:.6em;line-height:1;letter-spacing:-.055em}.
 .bottom-nav__top{appearance:none;padding:0;font-family:inherit;cursor:pointer}.letter[open]{overflow:visible}.letter[open] .letter-full{overflow:visible}
 .letter--full>summary{display:none}.letter--full .letter-full{display:block}.letter--full[open] .letter-full{overflow:visible}
 .letter-full ul{margin:0 0 1.15em;padding-left:1.25em}.letter-full li{margin:0 0 .7em;padding-left:.2em}.letter-full li::marker{color:var(--red)}
+.hero>.hero-layout{margin-top:0}
