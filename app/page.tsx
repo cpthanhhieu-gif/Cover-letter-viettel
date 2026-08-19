@@ -10,6 +10,7 @@ export default function Home() {
         <div className="nav-meta"><span>UX/UI DESIGNER</span><a href="#contact">Trao đổi cùng Hiếu <Arrow /></a></div>
       </nav>
       <section className="hero shell" id="top">
+        <p className="hero-label">THƯ ỨNG TUYỂN · UX/UI DESIGNER · VIETTEL DIGITAL</p>
         <div className="hero-layout">
           <div className="hero-content">
             <h1>Cù Phạm Thành Hiếu<br /><em>UX/UI Designer</em></h1>
