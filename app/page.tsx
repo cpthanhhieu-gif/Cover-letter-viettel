@@ -16,14 +16,14 @@ export default function Home() {
             <h1>Cù Phạm Thành Hiếu<br /><em>UX/UI Designer</em></h1>
             <div className="letter-wrap">
             <div className="letter letter-full">
-              <p>Kính gửi Anh/Chị phụ trách tuyển dụng Viettel Digital,<br />Em tên là <strong>Cù Phạm Thành Hiếu</strong>, mong muốn ứng tuyển vị trí <strong>UX/UI Designer</strong> tại Viettel Digital.</p>
-              <p>Tại team Precart của Mobile World Group, em phối hợp trực tiếp với PO, BA, Developer và QA trong toàn bộ quy trình: phân tích yêu cầu, xây dựng user flow, wireframe, high-fidelity UI, prototype, bàn giao và UI Audit sau lập trình. Một cải tiến trong hành trình mua SIM đã đưa CTR từ 0,8% lên 1,2%, tăng engagement 15% và giảm bounce rate 10%.</p>
-              <p>Trước đó, em thiết kế giao diện touchscreen cho robot tại Softworld Vietnam và các sản phẩm Web, Mobile, CRM tại LIVEN Technology. Nền tảng này giúp em cân bằng nhu cầu người dùng, giới hạn kỹ thuật, accessibility và guideline; đồng thời tự tin trao đổi với khách hàng, đối tác để thống nhất yêu cầu và kiểm soát chất lượng đầu ra.</p>
+              <p>Kính gửi Anh/Chị phụ trách tuyển dụng Viettel Digital,<br />Em tên là <strong>Cù Phạm Thành Hiếu</strong>, ứng tuyển vị trí <strong>UX/UI Designer</strong> tại Viettel Digital.</p>
+              <p>Tại team Precart của Mobile World Group, em phụ trách UX/UI end-to-end cho TGDĐ, Điện Máy Xanh và TopZone: phân tích yêu cầu cùng PO/BA, xây dựng user flow, wireframe, high-fidelity UI, prototype, bàn giao và UI Audit sau lập trình. Một cải tiến trong hành trình mua SIM đã đưa CTR từ 0,8% lên 1,2%, tăng engagement 15% và giảm bounce rate 10%. Em cũng từng thực hiện thiết kế cho sản phẩm tài chính (Financial Product) — kinh nghiệm này giúp em tiếp cận tốt với đặc thù UX ngành Fintech mà Viettel Digital đang tập trung phát triển.</p>
+              <p>Trước đó, em thiết kế giao diện cảm ứng cho thiết bị tương tác (touchscreen/HMI) tại Softworld Vietnam và các sản phẩm Web, Mobile, CRM tại LIVEN Technology. Nền tảng này giúp em cân bằng nhu cầu người dùng, giới hạn kỹ thuật, accessibility và guideline; đồng thời tự tin trao đổi với khách hàng, đối tác để thống nhất yêu cầu và kiểm soát chất lượng đầu ra.</p>
               <p>Những năng lực trong <a href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">portfolio của em</a> phù hợp trực tiếp với vị trí:</p>
               <ul>
                 <li><strong>Thiết kế và kiểm soát chất lượng:</strong> hoàn thiện user flow, wireframe, prototype; kiểm tra giao diện sau triển khai và đảm bảo tuân thủ guideline.</li>
                 <li><strong>Design System:</strong> xây dựng Atomic Design System, UI Kit, component library và style guide dùng chung cho Web/App.</li>
-                <li><strong>Phối hợp và tư vấn:</strong> làm việc đa chức năng, trình bày phương án và thống nhất giải pháp với stakeholder, khách hàng và đối tác.</li>
+                <li><strong>Phối hợp và tư vấn:</strong> làm việc đa chức năng theo quy trình Agile (Jira, Confluence), trình bày phương án và thống nhất giải pháp với stakeholder, khách hàng và đối tác.</li>
                 <li><strong>Visual &amp; AI-First:</strong> kinh nghiệm thiết kế banner, campaign; chủ động dùng AI hỗ trợ UX research, phát triển phương án UI, prototype và tài liệu hóa component, đồng thời kiểm chứng chất lượng đầu ra.</li>
               </ul>
               <p>Em mong có cơ hội trao đổi thêm về cách em có thể đóng góp vào việc chuẩn hóa trải nghiệm và nâng cao chất lượng thiết kế trong hệ sinh thái sản phẩm của Viettel Digital. Xin cảm ơn Anh/Chị đã dành thời gian xem xét hồ sơ.</p>
