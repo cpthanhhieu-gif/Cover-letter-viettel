@@ -17,9 +17,8 @@ export default function Home() {
             <div className="letter-wrap">
             <div className="letter letter-full">
               <p>Kính gửi Anh/Chị phụ trách tuyển dụng Viettel Digital,<br />Em tên là <strong>Cù Phạm Thành Hiếu</strong>, mong muốn ứng tuyển vị trí <strong>UX/UI Designer</strong> tại Viettel Digital.</p>
-              <p>Với kinh nghiệm thiết kế Web/App và tư duy Feature Owner, em có thế mạnh chuyển yêu cầu nghiệp vụ thành trải nghiệm rõ ràng, nhất quán và có thể đo lường — phù hợp với định hướng phát triển hệ sinh thái sản phẩm số của Viettel Digital.</p>
               <p>Tại team Precart của Mobile World Group, em phối hợp trực tiếp với PO, BA, Developer và QA trong toàn bộ quy trình: phân tích yêu cầu, xây dựng user flow, wireframe, high-fidelity UI, prototype, bàn giao và UI Audit sau lập trình. Một cải tiến trong hành trình mua SIM đã đưa CTR từ 0,8% lên 1,2%, tăng engagement 15% và giảm bounce rate 10%.</p>
-              <p>Trước đó, em thiết kế giao diện HMI cho robot tại Softworld Vietnam và các sản phẩm Web, Mobile, CRM tại LIVEN Technology. Nền tảng này giúp em cân bằng nhu cầu người dùng, giới hạn kỹ thuật, accessibility và guideline; đồng thời tự tin trao đổi với khách hàng, đối tác để thống nhất yêu cầu và kiểm soát chất lượng đầu ra.</p>
+              <p>Trước đó, em thiết kế giao diện touchscreen cho robot tại Softworld Vietnam và các sản phẩm Web, Mobile, CRM tại LIVEN Technology. Nền tảng này giúp em cân bằng nhu cầu người dùng, giới hạn kỹ thuật, accessibility và guideline; đồng thời tự tin trao đổi với khách hàng, đối tác để thống nhất yêu cầu và kiểm soát chất lượng đầu ra.</p>
               <p>Những năng lực trong <a href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">portfolio của em</a> phù hợp trực tiếp với vị trí:</p>
               <ul>
                 <li><strong>Thiết kế và kiểm soát chất lượng:</strong> hoàn thiện user flow, wireframe, prototype; kiểm tra giao diện sau triển khai và đảm bảo tuân thủ guideline.</li>
@@ -50,8 +49,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <section className="closing shell"><p>Em không chỉ thiết kế một màn hình đẹp. Em thiết kế <em>sự rõ ràng</em> giữa người dùng, nghiệp vụ và công nghệ.</p><span>— CÙ PHẠM THÀNH HIẾU</span></section>
 
       <footer id="contact">
         <div className="shell footer-grid"><div><span>03 — LET&apos;S TALK</span><h2>Sẵn sàng cho<br />cuộc trao đổi.</h2></div><div className="contact-links"><a className="email-link" href="mailto:cpthanhhieu@gmail.com?subject=Trao đổi về vị trí UX/UI Designer tại Viettel Digital">cpthanhhieu@gmail.com <Arrow /></a><a href="tel:+84935522285">093 552 2285</a><a href="https://www.linkedin.com/in/hieuu/" target="_blank" rel="noreferrer">LinkedIn <Arrow /></a><a href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">Portfolio <Arrow /></a><a href="/Cu-Pham-Thanh-Hieu-UIUX-Designer-CV.pdf" target="_blank">Mở CV <Arrow /></a></div></div>
