@@ -29,7 +29,7 @@ export default function Home() {
               <p>Em mong có cơ hội trao đổi thêm về cách em có thể đóng góp vào việc chuẩn hóa trải nghiệm và nâng cao chất lượng thiết kế trong hệ sinh thái sản phẩm của Viettel Digital. Xin cảm ơn Anh/Chị đã dành thời gian xem xét hồ sơ.</p>
               <p>Trân trọng,<br /><strong>Cù Phạm Thành Hiếu</strong></p>
             </div>
-            <div className="hero-actions"><a className="button primary" href="#contact">Liên hệ với Hiếu <Arrow /></a><a className="button secondary" href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">Xem portfolio <Arrow /></a><a className="button secondary" href="/Cu-Pham-Thanh-Hieu-UIUX-Designer-CV.pdf" target="_blank" rel="noreferrer">Xem CV <Arrow /></a></div>
+            <div className="hero-actions"><a className="button primary" href="/Cu-Pham-Thanh-Hieu-UIUX-Designer-CV.pdf" target="_blank" rel="noreferrer">Xem CV <Arrow /></a><a className="button secondary" href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">Xem portfolio <Arrow /></a></div>
             </div>
           </div>
           <figure className="hero-art">
