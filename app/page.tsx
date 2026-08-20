@@ -62,6 +62,7 @@ export default function Home() {
           <span className="bottom-nav__mark" aria-hidden="true">H.</span>
           <a href="/Cu-Pham-Thanh-Hieu-UIUX-Designer-CV.pdf" target="_blank" rel="noreferrer">Xem CV <Arrow /></a>
           <a href="https://hieuu.webflow.io/" target="_blank" rel="noreferrer">Xem portfolio <Arrow /></a>
+          <span className="bottom-nav__divider" aria-hidden="true" />
           <a href="https://vi-mwg.vercel.app/" target="_blank" rel="noreferrer">Vi-MWG <Arrow /></a>
           <a href="https://hieuu.webflow.io/project/sim-dmx" target="_blank" rel="noreferrer">SIM DMX <Arrow /></a>
           <a href="https://hieuu.webflow.io/atomic-design-system-ui-kit" target="_blank" rel="noreferrer">Design System <Arrow /></a>
